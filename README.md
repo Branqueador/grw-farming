@@ -1,6 +1,6 @@
 # How to change grw-farming prices
 
-#### Go to line 54, and there you can change min and max price that it  gives randomly
+#### Go to line 54 config.lua , and there you can change min and max price that it  gives randomly
 #### The stuff bellow is near line 54
 
 ```lua
